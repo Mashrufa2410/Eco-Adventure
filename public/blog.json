@@ -1,0 +1,233 @@
+[
+  {
+    "AdventureTitle": "Mount Joji",
+    "Image": "https://images.unsplash.com/photo-1705481109538-fb7edf4a5758?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ID": 1,
+    "CategoryName": "Mountain",
+    "ShortDescription": "Embark on a scenic trek to Mount Joji, where stunning views and tranquil landscapes await you.",
+    "AdventureCost": 150,
+    "BookingAvailability": "Available",
+    "Location": "Mount Joji, Japan",
+    "Duration": "6 hours",
+    "AdventureLevel": "Intermediate",
+    "IncludedItems": ["Guide", "Trekking Pole", "Snack Pack"],
+    "EcoFriendlyFeatures": [
+      "Leave No Trace Principles",
+      "Eco-Conscious Tour Guides",
+      "Sustainable Practices"
+    ],
+    "MaxGroupSize": 12,
+    "SpecialInstructions": [
+      "Wear sturdy hiking boots",
+      "Carry a water bottle",
+      "Prepare for varying weather conditions"
+    ]
+  },
+
+  {
+    "AdventureTitle": "Snowshoeing in Banff National Park",
+    "Image": "https://media.audleytravel.com/-/media/images/home/canada-and-the-usa/canada/country-guides/honeymoons-in-canada/istock_68869739_canada_moraine_lake_letterbox.webp?q=79&w=1920&h=685",
+    "ID": 2,
+    "CategoryName": "Winter Activities",
+    "ShortDescription": "Explore the snow-covered trails of Banff National Park on a guided snowshoeing adventure.",
+    "AdventureCost": 85,
+    "BookingAvailability": "Available",
+    "Location": "Banff National Park, Canada",
+    "Duration": "4 hours",
+    "AdventureLevel": "Beginner",
+    "IncludedItems": ["Snowshoes", "Winter Gear", "Hot Chocolate"],
+    "EcoFriendlyFeatures": [
+      "Leave No Trace Practices",
+      "Supports Local Conservation Efforts"
+    ],
+    "MaxGroupSize": 15,
+    "SpecialInstructions": [
+      "Dress warmly in layers",
+      "Bring water-resistant boots",
+      "Follow safety instructions"
+    ]
+  },
+  {
+    "AdventureTitle": "Northern Lights Viewing in Lapland",
+    "Image": "https://www.worldatlas.com/r/w960-q80/upload/ed/fd/07/shutterstock-1056803657.jpg",
+    "ID": 3,
+    "CategoryName": "Winter Adventure",
+    "ShortDescription": "Embark on a thrilling trek through Lapland to witness the awe-inspiring northern lights in their natural habitat.",
+    "AdventureCost": 200,
+    "BookingAvailability": "Limited",
+    "Location": "Lapland, Finland",
+    "Duration": "8 hours",
+    "AdventureLevel": "Intermediate",
+    "IncludedItems": ["Guided Trek", "Thermal Gear", "Lunch"],
+    "EcoFriendlyFeatures": [
+      "Sustainable Tourism Practices",
+      "Supports Local Communities"
+    ],
+    "MaxGroupSize": 10,
+    "SpecialInstructions": [
+      "Prepare for cold conditions",
+      "Bring a good camera for photos",
+      "Wear sturdy snow boots"
+    ]
+  },
+  {
+    "AdventureTitle": "Ice Diving in the Antarctic",
+    "Image": "https://www.travelbelize.org/nitropack_static/IWgOEEEkgXEZKduKCTbEvQOObnjfVryt/assets/images/optimized/rev-4a6744d/www.travelbelize.org/wp-content/uploads/2016/11/Blue-Hole-Aerial-Shots-ML-235-Copy-1536x1025.jpg",
+    "ID": 4,
+    "CategoryName": "Winter Sea",
+    "ShortDescription": "Dive into the icy waters of the Antarctic, discovering the unique marine life beneath the frozen surface.",
+    "AdventureCost": 75,
+    "BookingAvailability": "Available",
+    "Location": "Antarctic Peninsula",
+    "Duration": "3 hours",
+    "AdventureLevel": "Advanced",
+    "IncludedItems": ["Scuba Gear", "Guided Dive", "Thermal Insulation"],
+    "EcoFriendlyFeatures": [
+      "Supports Marine Conservation",
+      "Eco-Friendly Diving Practices"
+    ],
+    "MaxGroupSize": 12,
+    "SpecialInstructions": [
+      "Wear thermal diving suits",
+      "Follow the guide’s safety instructions",
+      "Bring a waterproof camera"
+    ]
+  },
+  {
+    "AdventureTitle": "Oksskolten Winter Ascent",
+    "Image": "https://www.campervannorway.com/assets/img/blog/466/shutterstock_1517421935-compressed.jpg",
+    "ID": 5,
+    "CategoryName": "Winter Hiking",
+    "ShortDescription": "Climb Oksskolten, Northern Norway’s tallest peak, for an unforgettable winter adventure amid pristine Arctic scenery.",
+    "AdventureCost": 80,
+    "BookingAvailability": "Available",
+    "Location": "Oksskolten, Norway",
+    "Duration": "6 hours",
+    "AdventureLevel": "Advanced",
+    "IncludedItems": ["Crampons", "Thermal Gear", "Guided Trek"],
+    "EcoFriendlyFeatures": [
+      "Leave-No-Trace Practices",
+      "Supports Arctic Conservation"
+    ],
+    "MaxGroupSize": 6,
+    "SpecialInstructions": [
+      "Wear layers for Arctic temperatures",
+      "Bring trekking poles and water-resistant boots",
+      "Follow safety briefings carefully"
+    ]
+  },
+  {
+    "AdventureTitle": "Galdhøpiggen Winter Trek",
+    "Image": "https://www.campervannorway.com/assets/img/blog/466/shutterstock_1041965233-compressed.jpg",
+    "ID": 6,
+    "CategoryName": "Winter Hiking",
+    "ShortDescription": "Embark on a thrilling winter hike to Galdhøpiggen, Norway's tallest peak, surrounded by pristine snow-covered landscapes.",
+    "AdventureCost": 120,
+    "BookingAvailability": "Available",
+    "Location": "Galdhøpiggen, Norway",
+    "Duration": "6 hours",
+    "AdventureLevel": "Intermediate",
+    "IncludedItems": ["Snowshoes", "Hot Drinks", "Professional Guide"],
+    "EcoFriendlyFeatures": [
+      "Minimal Impact Trekking",
+      "Supports Local Conservation Programs"
+    ],
+    "MaxGroupSize": 8,
+    "SpecialInstructions": [
+      "Wear proper winter gear",
+      "Bring trekking poles for support",
+      "Stay hydrated and follow guide instructions"
+    ]
+  },
+  
+  {
+    "AdventureTitle": "Abraham Lake Ice Bubbles Expedition",
+    "Image": "https://media.cntraveler.com/photos/5678fa4567dc82253d9f1c76/master/w_1920%2Cc_limit/frozen-abraham-lake-canada-cr-getty.jpg",
+    "ID": 7,
+    "CategoryName": "Winter Photography",
+    "ShortDescription": "Explore the frozen beauty of Abraham Lake and capture the famous ice bubbles phenomenon in a breathtaking winter setting.",
+    "AdventureCost": 200,
+    "BookingAvailability": "Limited",
+    "Location": "Alberta, Canada",
+    "Duration": "1 day",
+    "AdventureLevel": "Beginner",
+    "IncludedItems": ["Photography Guide", "Hot Beverages", "Winter Gear"],
+    "EcoFriendlyFeatures": [
+      "Leave No Trace Policy",
+      "Supports Local Conservation Efforts"
+    ],
+    "MaxGroupSize": 8,
+    "SpecialInstructions": [
+      "Wear insulated winter clothing",
+      "Bring a camera with a tripod",
+      "Avoid stepping on fragile ice formations"
+    ]
+  },  
+  {
+    "AdventureTitle": "Manaslu Mountain",
+    "Image": "https://www.muchbetteradventures.com/magazine/content/images/2019/06/13120354/iStock-4658571871.jpg",
+    "ID": 8,
+    "CategoryName": "Wildlife",
+    "ShortDescription": "Go on a polar bear viewing expedition in Churchill, Manitoba, during the winter migration season.",
+    "AdventureCost": 140,
+    "BookingAvailability": "Available",
+    "Location": "Churchill, Canada",
+    "Duration": "6 hours",
+    "AdventureLevel": "Intermediate",
+    "IncludedItems": ["Guided Tour", "Lunch", "Winter Gear"],
+    "EcoFriendlyFeatures": [
+      "Wildlife Conservation Efforts",
+      "Supports Polar Bear Protection"
+    ],
+    "MaxGroupSize": 8,
+    "SpecialInstructions": [
+      "Wear insulated clothing",
+      "Bring a camera with a zoom lens",
+      "Follow the guide’s instructions"
+    ]
+  },
+  {
+    "AdventureTitle": "Ice Ballooning Over the Arctic",
+    "Image": "https://i.cbc.ca/1.1507598.1379078169!/httpImage/image.jpg_gen/derivatives/16x9_780/li-ott-hot-air-balloon620.jpg",
+    "ID": 9,
+    "CategoryName": "Aerial",
+    "ShortDescription": "Soar above the frozen tundra in an eco-friendly hot air balloon during winter in the Arctic.",
+    "AdventureCost": 300,
+    "BookingAvailability": "Available",
+    "Location": "Arctic Circle",
+    "Duration": "2 hours",
+    "AdventureLevel": "Beginner",
+    "IncludedItems": ["Balloon Ride", "Hot Drinks", "Guide"],
+    "EcoFriendlyFeatures": [
+      "Eco-Fuel Usage",
+      "Noise-Free Operation"
+    ],
+    "MaxGroupSize": 12,
+    "SpecialInstructions": [
+      "Dress warmly",
+      "Arrive early",
+      "Secure personal items"
+    ]
+  },
+  {
+    "AdventureTitle": "Banff National Park",
+    "Image": "https://media.audleytravel.com/-/media/images/home/canada-and-the-usa/canada/country-guides/honeymoons-in-canada/istock_68869739_canada_moraine_lake_letterbox.webp?q=79&w=1920&h=685",
+    "ID": 10,
+    "CategoryName": "Cycling",
+    "ShortDescription": "Bike along scenic mountain paths in the stunning landscapes of Banff National Park.",
+    "AdventureCost": 100,
+    "BookingAvailability": "Available",
+    "Location": "Banff National Park, Canada",
+    "Duration": "4 hours",
+    "AdventureLevel": "Intermediate",
+    "IncludedItems": ["Bike Rental", "Helmet", "Snacks"],
+    "EcoFriendlyFeatures": ["Zero Carbon Footprint", "Supports Local Farmers"],
+    "MaxGroupSize": 8,
+    "SpecialInstructions": [
+      "Bring sunglasses",
+      "Hydrate well",
+      "Check bike condition before starting"
+    ]
+  }
+  
+]
